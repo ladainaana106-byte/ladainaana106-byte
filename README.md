@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kijang 👋
 
-<!--
-**ladainaana106-byte/ladainaana106-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builder · Automation · AI · Web3 · Crypto** — based in Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+I build tools that do the boring stuff so I can focus on the interesting stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I work on
+
+- 🤖 **AI agents & automation** — local LLM gateways, jailbreak pipelines, multi-model orchestration
+- ⛓️ **Web3 / crypto** — airdrop farming, wallet ops, on-chain automation
+- 📡 **Telegram / X bots** — at-scale account ops with anti-detection
+- 🔐 **Security & red-team tooling** — adversarial AI testing, scrapers, identity factory
+
+### 🧰 Stack
+
+`Python` · `TypeScript` · `SQLite` · `Bash` · `Playwright` · `CloakBrowser` · `Web3.py` · `Hermes Agent`
+
+### 📌 Pinned projects
+
+Each repo here represents something that's been used in production long enough to be worth keeping. If it broke once and got fixed, it lives here.
+
+### 📬 Contact
+
+- Email: `ladainaana106@gmail.com`
+- Telegram: `+62 896-9333-262`
+
+> *"If it ran in production, it's a repo. If it's a repo, it lives here."*
