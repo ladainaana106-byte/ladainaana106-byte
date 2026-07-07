@@ -24,6 +24,6 @@ Each repo here represents something that's been used in production long enough t
 ### 📬 Contact
 
 - Email: `ladainaana106@gmail.com`
-- Telegram: `+62 896-9333-262`
+- Telegram: `+62 896-9333-3262`
 
 > *"If it ran in production, it's a repo. If it's a repo, it lives here."*
